@@ -14,7 +14,7 @@ Figure1: shows the application of machine learning in biology.
 
 ### **Phases of machine learning and its concept**
 ML has two major phases which are training and testing the model. That is used to answer biological questions. In the training phase, the ML model begins to train in the training data the model has, it is important so that the model can make predictions. Followed by a testing phase where the testing data is used to evaluate the performance of the model and make predictions.
-Figure 2: shows the two main phases of ML.
+
 
 ![Picture2](https://github.com/user-attachments/assets/939ecc65-7ced-45fd-86e5-f217163f2c4f)
 
